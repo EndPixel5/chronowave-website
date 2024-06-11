@@ -8,6 +8,7 @@ body    {
     color: white;
 }
 .top-bar{
+    font-family: aharoni, fantasy;
     position: fixed;
     text-align:right;
     top: 0px;
