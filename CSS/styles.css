@@ -1,8 +1,11 @@
 body    {
     background-image: url("../images/space2.png");
+    background-repeat:  no-repeat;
+    background-attachment: fixed;
     background-size: 2240px 1260px;
     background-color: rgb(20, 17, 35);
     font-family: Courier, monospace;
+    color: white;
 }
 .top-bar{
     position: fixed;
@@ -17,8 +20,25 @@ body    {
 .poster{
     text-align: center;
 }
+.credit{
+    font-size: 9px;
+    text-align: center;
+}
 .button{
-    color: white;
     padding: 25px;
     font-size: 18px;
+    color: white;
+}
+.sprites{
+    text-align: center;
+}
+.portrait_bigger{
+    width: 60px;
+    height: auto;
+}
+.section{
+    margin-left: 15%;
+    width: 70%;
+    background-color: rgb(83, 46, 116, 0.5);
+    padding: 12px;
 }
