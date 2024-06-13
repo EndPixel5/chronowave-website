@@ -30,6 +30,12 @@ body    {
     font-size: 18px;
     color: white;
 }
+
+.bottom-demo{
+    color: white;
+    text-align: center;
+}
+
 .sprites{
     text-align: center;
     
@@ -54,6 +60,12 @@ body    {
 .section{
     margin-left: 15%;
     width: 70%;
+    background-color: rgb(83, 46, 116, 0.5);
+    padding: 5px 30px;
+}
+.demo-section{
+    margin-left: 25%;
+    width: 50%;
     background-color: rgb(83, 46, 116, 0.5);
     padding: 5px 30px;
 }
